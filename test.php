@@ -10,7 +10,7 @@
     <script src="https://kit.fontawesome.com/a0f5cf51b1.js" crossorigin="anonymous"></script>
   </head>
   <body>
-    <h1>こんにちわ</h1>
+    <h1>こんばんびー</h1>
   </body>
 </html>
 
